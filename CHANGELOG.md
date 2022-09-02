@@ -4,7 +4,7 @@
 - []  ([#](https://github.com/react-dates/react-dates/pull/))
 -->
 
-## 22.0.0
+## 22.0.1
 
 - [new] React 18
 
