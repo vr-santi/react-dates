@@ -1,5 +1,5 @@
 {
-  "name": "react-dates",
+  "name": "@vr-santi/react-dates",
   "version": "23.0.0",
   "description": "A responsive and accessible date range picker component built with React",
   "main": "index.js",
@@ -140,5 +140,10 @@
   },
   "engines": {
     "node": ">=0.10"
+  },
+  "directories": {
+    "example": "examples",
+    "lib": "lib",
+    "test": "test"
   }
 }
